@@ -26,3 +26,4 @@ Unlocked
 
 
 
+http://karanbalkar.com/2014/01/tutorial-71-implement-lock-screen-in-android/
